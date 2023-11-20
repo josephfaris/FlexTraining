@@ -1,0 +1,29 @@
+.btns {
+    text-align: center;
+}
+.btns button {
+    margin-left: 20px;
+    text-align: center;
+    color: white;
+    background-color: #010010;
+    border-radius: 20px;
+    font-size: 18px;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+}
+.circle {
+    border: 1px solid green;
+    height: 600px;
+    margin:100px 80px ;
+    display: flex;
+
+}
+.circ {
+width: 75px;
+height: 75px;
+background-color: black;
+border-radius: 50%;
+align-items: end;
+
+}
